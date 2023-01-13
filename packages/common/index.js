@@ -1,2 +1,2 @@
-export * from './CommonA'
-export * from './CommonB'
+export * from './CommonA.js'
+export * from './CommonB.js'
